@@ -1,6 +1,6 @@
 {
   "name": "com.kyowon.unityplugins.npmPackageTest",
-  "version": "0.0.941",
+  "version": "0.0.1",
   "displayName": "NpmPackageTest",
   "description": "Unity Npm Test package",
   "unity": "2022.3",
