@@ -1,0 +1,10 @@
+{
+  "name": "com.kyowon.unityplugins.npmPackageTest",
+  "version": "0.0.941",
+  "displayName": "NpmPackageTest",
+  "description": "Unity Npm Test package",
+  "unity": "2022.3",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@yoonsung2"
+  }
+}
